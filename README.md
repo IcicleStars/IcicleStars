@@ -1,6 +1,6 @@
 <div align="center">
 
-# Reykjavik Salvador <a href="https://www.name-coach.com/reykjavik-salvador"><img src="assets/sound.png" alt="Pronounce" width="24" height="24" valign="middle" /></a>
+# Reykjavik Salvador <a href="https://www.name-coach.com/reykjavik-salvador"><img src="assets/sound2.png" alt="Pronounce" width="24" height="24" valign="middle" /></a>
 
 *computer science and engineering @ uc merced*
 
