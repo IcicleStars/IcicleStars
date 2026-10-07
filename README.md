@@ -20,6 +20,6 @@ Heyy! I'm Reykjavik, and I'm a 4th year CSE student at UC Merced graduating in D
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/reykjavik/)
 [![Goodreads](https://img.shields.io/badge/Goodreads-372213?style=flat-square&logo=goodreads&logoColor=white)](https://www.goodreads.com/user/show/120111266-reykjavik-randelle-salvador)
 [![Pinterest](https://img.shields.io/badge/Pinterest-372213?style=flat-square&logo=pinterest&logoColor=white)](https://www.pinterest.com/IcicleStar/)
-[![Album Of The Year](https://img.shields.io/badge/Pinterest-372213?style=flat-square&logo=albumoftheyear&logoColor=white)](https://www.albumoftheyear.org/user/iciclestars/)
+[![Album Of The Year](https://img.shields.io/badge/Album_Of_The_Year-372213?style=flat-square&logo=albumoftheyear&logoColor=white)](https://www.albumoftheyear.org/user/iciclestars/)
 
 <br clear="both"/>
